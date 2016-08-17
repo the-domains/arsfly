@@ -6,9 +6,9 @@ color:
   saturation: 0.9361246575135738
   rhythmicContrast: 0.11540133855305612
   brandColors:
-    - '#5B4A42'
-    - '#A79C96'
-    - '#000000'
-    - '#F5F4F2'
-    - '#D2CAC7'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: ArsFly
