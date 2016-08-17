@@ -1,0 +1,14 @@
+layout_spectrum: 0.5503618095535785
+typography_spectrum: 0.9820695652160794
+color:
+  brandStrength: 0.6150208860635757
+  lightness: 0.09433649852871895
+  saturation: 0.9361246575135738
+  rhythmicContrast: 0.11540133855305612
+  brandColors:
+    - '#5B4A42'
+    - '#A79C96'
+    - '#000000'
+    - '#F5F4F2'
+    - '#D2CAC7'
+name: ArsFly
